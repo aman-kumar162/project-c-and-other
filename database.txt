@@ -1,0 +1,6 @@
+
+ 1 water 0 5.89592e-039
+ 2 Tiffin 300 10
+ 3 Pasta 100 2
+ 4 Bika_ji 500 2
+ 5 Shoes 1000 5
